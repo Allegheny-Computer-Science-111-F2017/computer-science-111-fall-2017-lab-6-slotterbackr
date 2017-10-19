@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /** 
  *  This class computes a compliment string of DNA.
- *  The program will display and compute the compliment string of DNA.
+ *  The program will display and compute compliment string of DNA.
  *
  *  <p>Bugs: This program has no known bugs, but is missing code.
  *
